@@ -1,0 +1,3 @@
+﻿  tga_test.cpp
+c:\users\micha\desktop\pk\piadm\lab1\lab1\tga_test.cpp(102): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab1.vcxproj -> C:\Users\micha\Desktop\PK\PiADM\Lab1\Debug\Lab1.exe
